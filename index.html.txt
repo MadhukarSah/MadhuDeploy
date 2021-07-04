@@ -1,8 +1,0 @@
-<head>
-<title> My deployment project</title>
-</head>
-<body bycolor="skyblue">
-
-     <b> Welcome to my project of deployment </b>
-</body>
-</head>
